@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nha Truong 👋
 
-<!--
-**quynhtruong1303/quynhtruong1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at CU Denver (GPA 3.7) graduating Spring 2026, with a focus on **data engineering, full-stack development, and machine learning**.
 
-Here are some ideas to get you started:
+🌐 English & Vietnamese (Fluent) · Mandarin (Conversational)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## GitHub Stats
+
+![Nha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quynhtruong1303&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhtruong1303&layout=compact&hide_border=true)
+
+---
+
+## Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=githubpages&logoColor=white)](https://quynhtruong1303.github.io/my-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nha-truong-63a716285)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/quynhtruong1303)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:quynhtruong1303@gmail.com)
