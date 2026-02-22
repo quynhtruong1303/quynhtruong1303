@@ -19,7 +19,7 @@ CS student at CU Denver (GPA 3.7) graduating Spring 2026, with a focus on **data
 
 ---
 
-## 🔭 Currently Working On
+## Currently Working On
 
 - Near-miss collision analytics pipeline with PostgreSQL & Apache Spark @ Purdue Data Mine
 - Credit card fraud detection system with scikit-learn, PostgreSQL & Apache Superset
