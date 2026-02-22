@@ -19,10 +19,10 @@ CS student at CU Denver (GPA 3.7) graduating Spring 2026, with a focus on **data
 
 ---
 
-## GitHub Stats
+## 🔭 Currently Working On
 
-![Nha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quynhtruong1303&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quynhtruong1303&layout=compact&hide_border=true)
+- Near-miss collision analytics pipeline with PostgreSQL & Apache Spark @ Purdue Data Mine
+- Credit card fraud detection system with scikit-learn, PostgreSQL & Apache Superset
 
 ---
 
