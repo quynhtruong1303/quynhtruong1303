@@ -1,13 +1,8 @@
 # Hi, I'm Nha Truong 👋
-
 CS student at CU Denver (GPA 3.7) graduating Spring 2026, with a focus on **data engineering, full-stack development, and machine learning**.
-
 🌐 English & Vietnamese (Fluent) · Mandarin (Conversational)
-
 ---
-
 ## Tech Stack
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -16,18 +11,12 @@ CS student at CU Denver (GPA 3.7) graduating Spring 2026, with a focus on **data
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
 ---
-
 ## Currently Working On
-
-- Near-miss collision analytics pipeline with Docker, PostgreSQL & Apache Superset @ Purdue Data Mine
-- Credit card fraud pattern analysis with clustering, Local Outlier factor (LOF), PostgreSQL(Supabase) & React Dashboard
-
+- **AI Personal Finance Platform** — Full-stack app with bank sync (Plaid), AI-powered spending insights (Claude API), and natural language queries. Stack: Next.js · TypeScript · PostgreSQL · Docker · AWS
+- **Multi-Tenant SaaS Starter Kit** — Production-ready boilerplate with RBAC auth, Stripe billing, feature gating, usage metering, and audit logging. Stack: Next.js · tRPC · Prisma · Stripe · AWS ECS
 ---
-
 ## Connect
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=githubpages&logoColor=white)](https://quynhtruong1303.github.io/my-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nha-truong-63a716285)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/quynhtruong1303)
